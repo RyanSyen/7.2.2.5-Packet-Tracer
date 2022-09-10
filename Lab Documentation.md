@@ -1,7 +1,7 @@
 # 7.2.2.5-Packet-Tracer
 W9 7.2.2.5 Lab - Configuring a Point-to-Point GRE VPN Tunnel
 
-PKA file
+PKT file [here](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/W9%207.2.2.5%20Lab%20-%20Configuring%20a%20Point-to-Point%20GRE%20VPN%20Tunnel.pkt)
 
 Table contents
 --------------
