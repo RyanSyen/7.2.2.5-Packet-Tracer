@@ -1,23 +1,30 @@
 # 7.2.2.5-Packet-Tracer
 W9 7.2.2.5 Lab - Configuring a Point-to-Point GRE VPN Tunnel
 
+PKA file
+
 Table contents
 --------------
-1. Part 1: Configure Basic Device Settings
-- step 1
-- step 2
-- step 3
-- step 4
-- step 5
-- step 6
-- step 7
-3. Part 2: Configure a GRE Tunnel
-- step 1
-- step 2
-5. Part 3: Enable Routing over the GRE Tunnel
-- step 1
-- step 2
-- step 3
+1. [Part 1: Configure Basic Device Settings](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#part-1-configure-basic-device-settings)
+- [step 1](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-1cable-the-network-as-shown-in-the-topology)
+- [step 2](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-2initialize-and-reload-the-routers-and-switches
+)
+- [step 3](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-3configure-basic-settings-for-each-router)
+- [step 4](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-4configure-default-routes-to-the-isp-router)
+- [step 5](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-5configure-the-pcs
+)
+- [step 6](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-6verify-connectivity)
+- [step 7](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-7save-your-running-configuration
+)
+2. [Part 2: Configure a GRE Tunnel](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#part-2-configure-a-gre-tunnel)
+- [step 1](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-1configure-the-gre-tunnel-interface)
+- [step 2](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-2verify-that-the-gre-tunnel-is-functional)
+3. [Part 3: Enable Routing over the GRE Tunnel](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#part-3-enable-routing-over-the-gre-tunnel)
+- [step 1](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-1configure-ospf-routing-for-area-0-over-the-tunnel)
+- [step 2](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-2verify-ospf-routing)
+- [step 3](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#step-3verify-end-to-end-connectivity
+)
+4. [Reflection](https://github.com/RyanSyen/7.2.2.5-Packet-Tracer/blob/main/Lab%20Documentation.md#reflection)
 
 ### Topology
 ![topology](https://github.com/RyanSyen/imagesStorage/blob/main/7.2.2.5%20packet%20tracer%20Images/topology.png)
